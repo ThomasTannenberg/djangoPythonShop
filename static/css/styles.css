@@ -1,0 +1,28 @@
+/* Grundlegende Stildefinitionen für die Webseite */
+
+body {
+    background-color: #f8f9fa; /* Hintergrundfarbe für einen modernen Look */
+}
+
+.navbar {
+    background-color: #343a40; /* Dunkler Blaugrau-Farbton für die Navigationsleiste */
+}
+
+.nav-link {
+    color: #ffffff; /* Weiße Textfarbe für Links */
+}
+
+.nav-link:hover {
+    color: #f8f9fa; /* Helle Farbe beim Überfahren der Links */
+}
+
+/* Anpassungen für das Logo und den Titel im Menü */
+.navbar-brand {
+    color: #ffffff; /* Weiße Textfarbe */
+    font-weight: bold; /* Fettdruck für bessere Sichtbarkeit */
+}
+
+/* Stil für den Warenkorb- und Login-Link */
+.nav-item {
+    margin-left: 20px; /* Abstand zwischen den Navigationslinks */
+}
